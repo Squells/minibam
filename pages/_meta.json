@@ -1,0 +1,21 @@
+{
+  "index": {
+    "title": "GameCMS",
+    "theme": {
+      "breadcrumb": false,
+      "footer": true,
+      "sidebar": true,
+      "toc": false,
+      "pagination": true
+    }
+  },
+  "modules": "Модули",
+  "template": "Шаблоны",
+  "faq": "Частозадаваемые вопросы",
+  "contact": {
+    "title": "Наша беседа ↗",
+    "type": "page",
+    "href": "https://vk.me/join/YLb3if40ufMRjJGdjp427O_7Fb/HhXXfua4=",
+    "newWindow": true
+  }
+}
